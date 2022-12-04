@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-12-04T13:27:17.949Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" version="20.6.0" etag="6djdEjL67Lg70p12HeSI" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-04T13:29:52.704Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" version="20.6.0" etag="5G_lDQ1eBj702a313j_a" type="github">
   <diagram id="ZcTfv8G75Cicn9Y3wGi1" name="第 1 页">
-    <mxGraphModel dx="1865" dy="1716" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1438" dy="947" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -26,16 +26,16 @@
           <mxGeometry x="480" y="360" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Y7Po1hShZHssqJy6DZy--11" value="使用方法论对业务进行划分，&lt;br&gt;只谈业务，不谈技术与实现" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontSize=12;position2=0.27;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="490" y="10" width="185" height="90" as="geometry" />
+          <mxGeometry x="453" y="2" width="185" height="90" as="geometry" />
         </mxCell>
         <mxCell id="Y7Po1hShZHssqJy6DZy--12" value="对整个系统实现的总体上的架构进行指出系统的层次，各个层次的应用服务" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontSize=12;position2=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="120" y="140" width="180" height="110" as="geometry" />
         </mxCell>
         <mxCell id="Y7Po1hShZHssqJy6DZy--13" value="技术架构是识别的技术需求，根据业务需求进行技术选型，纯技术层面分层，开发框架和编程语言选择" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontSize=12;position2=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="-50" y="290" width="180" height="110" as="geometry" />
+          <mxGeometry x="-34" y="274" width="180" height="110" as="geometry" />
         </mxCell>
         <mxCell id="Y7Po1hShZHssqJy6DZy--14" value="一套对存储数据的架构逻辑，从哪里来到哪里去，包括异构、ETL、缓存、聚合应用等" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontSize=12;position2=0.27;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="660" y="300" width="185" height="90" as="geometry" />
+          <mxGeometry x="604" y="284" width="185" height="90" as="geometry" />
         </mxCell>
         <mxCell id="Y7Po1hShZHssqJy6DZy--19" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-family: &amp;quot;Source Sans Pro&amp;quot;, &amp;quot;等距更纱黑体 SC&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Arial, sans-serif; orphans: 4; text-align: left; word-spacing: 0.85px; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;TOGAF 企业架构介绍&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="80" y="-10" width="200" height="30" as="geometry" />
